@@ -9,12 +9,12 @@ let city = "pune"
 switch (city) {
     case "pune":
         console.log("MH")
-        case "delhi":
-            console.log("delhi")
-            case "banglore":
-                console.log("KA")
-                case "jaipur":
-                    console.log("RA")
+    case "delhi":
+         console.log("delhi")
+    case "banglore":
+         console.log("KA")
+    case "jaipur":
+        console.log("RA")
 }
 
 // ---------------------------------------------------------
