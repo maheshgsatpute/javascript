@@ -59,7 +59,7 @@ let below40 = marks.filter(function(el,index,arr){
 console.log(below40)
    
 
-// below40 with foe loop
+// below40 with for loop
 
 // for(let i=0;i<marks.length;i++){
 //     if(marks[i]<=40){
